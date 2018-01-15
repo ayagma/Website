@@ -48,18 +48,8 @@
   </url>
   
   <url>
-    <loc>http://ayagma.com/2013/10/chinese-test/</loc>
-    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://ayagma.com/2013/02/image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/2013/01/japanese-test/</loc>
-    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,12 +59,6 @@
   
   <url>
     <loc>http://ayagma.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/tags/chinese/</loc>
-    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,12 +135,6 @@
   </url>
   
   <url>
-    <loc>http://ayagma.com/tags/japanese/</loc>
-    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ayagma.com/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -200,7 +178,7 @@
   
   <url>
     <loc>http://ayagma.com/tags/</loc>
-    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
