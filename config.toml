@@ -33,8 +33,7 @@ canonifyurls = true
 
 [author]
   name = "Аягма Цыбикжапова"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
+  bio = "Пишу о том, что мне интересно и вдохновляет"
   location = "Санкт-Петербург, Россия"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "ayagma.ts@gmail.com"
