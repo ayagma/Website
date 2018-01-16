@@ -21,7 +21,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.32.2 with theme Tranquilpeak 0.4.3-BETA">
+    <meta name="generator" content="Hugo 0.31.1 with theme Tranquilpeak 0.4.3-BETA">
     <title>Tags plugins showcase</title>
     <meta name="author" content="Аягма Цыбикжапова">
     <meta name="keywords" content="">
@@ -326,10 +326,11 @@ alert('Hello World!');
     <tbody>
       <tr>
         <td class="gutter">
-          <pre><span class="line">1</span><br></pre>
+          <pre><span class="line">1</span><br><span class="line">2</span><br></pre>
         </td>
         <td class="code">
-          <pre class="code-highlight language-"><code class="">array.map(callback[, thisArg])</code></pre>
+          <pre class="code-highlight language-"><code class="">
+array.map(callback[, thisArg])</code></pre>
         </td>
       </tr>
     </tbody>
@@ -363,10 +364,11 @@ alert('Hello World!');
     <tbody>
       <tr>
         <td class="gutter">
-          <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre>
+          <pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre>
         </td>
         <td class="code">
-          <pre class="code-highlight language-apacheconf"><code class="apacheconf"># rewrite`s rules for wordpress pretty url
+          <pre class="code-highlight language-apacheconf"><code class="apacheconf">
+# rewrite`s rules for wordpress pretty url
 LoadModule rewrite_module  modules/mod_rewrite.so
 RewriteCond %{REQUEST_FILENAME} !-f
 
@@ -376,7 +378,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_URI} ^/([^/.]&#43;)\.html$ [NC]
   RewriteCond ${map:${lower:%1}|NOT_FOUND} !NOT_FOUND
   RewriteRule .? /index.php?q=${map:${lower:%1}} [NC,L]
-&lt;/Location&gt;</code></pre>
+&lt;/Location&gt;</code></pre>
         </td>
       </tr>
     </tbody>
@@ -1114,24 +1116,6 @@ dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac 
 
 
 
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-
 
   
     
@@ -1145,125 +1129,9 @@ dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac 
     
     <ul class="tabs">
       
-        <li class="tab active">js</li>
-      
-        <li class="tab ">css</li>
-      
-        <li class="tab ">html</li>
-      
     </ul>
   </figcaption> 
   <div class="tabs-content">
-    
-      
-      <figure class="highlight language-js" style="display: block;">   
-        <table>
-          <tbody>
-            <tr>
-              <td class="gutter">
-                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></pre>
-              </td>
-              <td class="code">
-                <pre class="code-highlight language-js"><code class="js">function $initHighlight(block, flags) {
-  try {
-    if (block.className.search(/\bno\-highlight\b/) != -1)
-      return processBlock(block.function, true, 0x0F) &#43; &#39; class=&#34;&#34;&#39;;
-  } catch (e) {
-    /* handle exception */
-    var e4x =
-        &lt;div&gt;Example
-            &lt;p&gt;1234&lt;/p&gt;&lt;/div&gt;;
-  }
-  for (var i = 0 / 2; i &lt; classes.length; i&#43;&#43;) { // &#34;0 / 2&#34; should not be parsed as regexp
-    if (checkCondition(classes[i]) === undefined)
-      return /\d&#43;[\s/]/g;
-  }
-  console.log(Array.every(classes, Boolean));
-}</code></pre>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </figure>
-    
-      
-      <figure class="highlight language-css" style="display: none;">   
-        <table>
-          <tbody>
-            <tr>
-              <td class="gutter">
-                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></pre>
-              </td>
-              <td class="code">
-                <pre class="code-highlight language-css"><code class="css">@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  body:first-of-type pre::after {
-    content: &#39;highlight: &#39; attr(class);
-  }
-  body {
-    background: linear-gradient(45deg, blue, red);
-  }
-}
-
-@import url(&#39;print.css&#39;);
-@page:right {
- margin: 1cm 2cm 1.3cm 4cm;
-}
-
-@font-face {
-  font-family: Chunkfive; src: url(&#39;Chunkfive.otf&#39;);
-}
-
-div.text,
-#content,
-li[lang=ru] {
-  font: Tahoma, Chunkfive, sans-serif;
-  background: url(&#39;hatch.png&#39;) /* wtf? */;  color: #F0F0F0 !important;
-  width: 100%;
-}</code></pre>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </figure>
-    
-      
-      <figure class="highlight language-html" style="display: none;">   
-        <table>
-          <tbody>
-            <tr>
-              <td class="gutter">
-                <pre><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></pre>
-              </td>
-              <td class="code">
-                <pre class="code-highlight language-html"><code class="html">&lt;?xml version=&#34;1.0&#34;?&gt;
-&lt;response value=&#34;ok&#34; xml:lang=&#34;en&#34;&gt;
-  &lt;text&gt;Ok&lt;/text&gt;
-  &lt;comment html_allowed=&#34;true&#34;/&gt;
-  &lt;ns1:description&gt;&lt;![CDATA[
-  CDATA is &lt;not&gt; magical.
-  ]]&gt;&lt;/ns1:description&gt;
-  &lt;a&gt;&lt;/a&gt; &lt;a/&gt;
-&lt;/response&gt;
-
-
-&lt;!DOCTYPE html&gt;
-&lt;title&gt;Title&lt;/title&gt;
-
-&lt;style&gt;body {width: 500px;}&lt;/style&gt;
-
-&lt;script type=&#34;application/javascript&#34;&gt;
-  function $init() {return true;}
-&lt;/script&gt;
-
-&lt;body&gt;
-  &lt;p checked class=&#34;title&#34; id=&#39;title&#39;&gt;Title&lt;/p&gt;
-  &lt;!-- here goes the rest of the page --&gt;
-&lt;/body&gt;</code></pre>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </figure>
     
   </div>
 </figure>
@@ -1554,6 +1422,24 @@ li[lang=ru] {
           <div class="media">
             
             <div class="media-body">
+              <a class="link-unstyled" href="http://ayagma.com/2018/01/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E/">
+                <h3 class="media-heading">Приветствую</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Jan 1, 2018
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather"><p>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
+</p></div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
               <a class="link-unstyled" href="http://ayagma.com/2015/05/elements-showcase/">
                 <h3 class="media-heading">Elements showcase</h3>
               </a>
@@ -1719,7 +1605,7 @@ li[lang=ru] {
          data-message-zero="no post found"
          data-message-one="1 post found"
          data-message-other="{n} posts found">
-         9 posts found
+         10 posts found
       </p>
     </div>
   </div>
