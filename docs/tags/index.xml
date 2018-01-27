@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Личный блог</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ayagma.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Dailymotion</title>
-      <link>http://ayagma.com/tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/dailymotion/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Disqus</title>
@@ -26,15 +17,6 @@
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://ayagma.com/tags/disqus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github Theme</title>
-      <link>http://ayagma.com/tags/github-theme/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/github-theme/</guid>
       <description></description>
     </item>
     
@@ -66,119 +48,11 @@
     </item>
     
     <item>
-      <title>Highlight Code</title>
-      <link>http://ayagma.com/tags/highlight-code/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/highlight-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html Elements</title>
-      <link>http://ayagma.com/tags/html-elements/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/html-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Gallery</title>
-      <link>http://ayagma.com/tags/image-gallery/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://ayagma.com/tags/markdown/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pagination</title>
-      <link>http://ayagma.com/tags/pagination/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/pagination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Responsive</title>
       <link>http://ayagma.com/tags/responsive/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://ayagma.com/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>http://ayagma.com/tags/social/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag Plugins</title>
-      <link>http://ayagma.com/tags/tag-plugins/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/tag-plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>http://ayagma.com/tags/tags/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://ayagma.com/tags/test/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos Integration</title>
-      <link>http://ayagma.com/tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/videos-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vimeo</title>
-      <link>http://ayagma.com/tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>http://ayagma.com/tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://ayagma.com/tags/youtube/</guid>
       <description></description>
     </item>
     
