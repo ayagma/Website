@@ -8,6 +8,12 @@
   </url>
   
   <url>
+    <loc>http://ayagma.com/tags/aboutme/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ayagma.com/archives/</loc>
     <priority>0</priority>
   </url>
@@ -18,37 +24,7 @@
   </url>
   
   <url>
-    <loc>http://ayagma.com/tags/disqus/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/tags/google-analytics/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/tags/gravatar/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/tags/hexo-theme/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ayagma.com/post/</loc>
-    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ayagma.com/tags/responsive/</loc>
     <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
