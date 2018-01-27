@@ -1,6 +1,6 @@
 ---
 title: "Приветствую!"
-date: 2018-01-16
+date: 2018-01-27
 categories:
 tags:
 - hexo theme
@@ -18,8 +18,14 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---
-бла бла бла
-<!--more-->
+Всем привет! Меня зовут Аягма, и до меня никто не додумался приобрести домен ayagma.com.
+Я не в первый раз пытаюсь завести личный блог, но сейчас один добрый человек решил помочь в этом нелегком деле и поднял сайт, на котором вы находитесь.
+Добро пожаловать!
+Здесь я буду  писать в основном о своих поездках в другие страны и города с маршрутом и бюджетом, а также планировать следующие поездки, сейчас в разработке у меня путешествие на Амальфитанское побережье Италии.
+Если вы чем-то заинтересовались или хотите о чем-нибудь спросить, пишите в телеграм https://t.me/ayagma_ts
+Cheers!
+
+
 
 ![Tranquilpeak](/img/showcase.png)
 Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
