@@ -11,7 +11,7 @@ coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---
 
-Добро пожаловать! Меня зовут Аягма.
+**Добро пожаловать! Меня зовут Аягма**
 
 <!--more-->
 
